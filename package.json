@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:firefox": "npx cypress run --browser firefox",
+    "test-browser-chrome": "npx cypress run --browser chrome",
+    "test": "npx cypress run",
+    "LT-test": "lambdatest-cypress run"
   },
   "repository": {
     "type": "git",
