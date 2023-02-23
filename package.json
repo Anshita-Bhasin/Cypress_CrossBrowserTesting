@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Anshita-Bhasin/Cypress_CrossBrowserTesting#readme",
   "dependencies": {
-    "cypress": "^12.6.0"
+    "cypress": "^12.6.0",
+    "lambdatest-cypress-cli": "^3.0.10"
   }
 }
