@@ -13,8 +13,6 @@ describe("Testing on different browsers", () => {
     cy.log("-- Electron Browser---");
   });
 
-
-
 });
 
 
