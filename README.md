@@ -4,6 +4,7 @@ Cross Browser Testing is the practice of testing your website's functionality an
 
 It is essential because different browsers have different rendering engines to display web content. For example, Chrome uses the Blink rendering engine while Firefox uses Gecko and Safari uses the WebKit rendering engine.
 
+I have shared below ways to perform cross browser testing in Cypress. 
 
 
 1). Cross Browser Testing using Cypress test runner
